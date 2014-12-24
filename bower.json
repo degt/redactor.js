@@ -1,0 +1,22 @@
+{
+  "name": "redactor-eclass",
+  "version": "0.0.1",
+  "homepage": "https://github.com/Dauno/redactor.js",
+  "authors": [
+    "dguajardo@eclass.cl"
+  ],
+  "description": "Redactor.js fork for eclass",
+  "main": "redactor.js",
+  "keywords": [
+    "redactorjs",
+    "redactor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
